@@ -33,8 +33,6 @@ A basic calculator to perform simple arithmetic operations like addition, subtra
 - CSS
 - JavaScript
 
-## 📁 Folder Structure
-
 
 ## 👩‍💻 Author
 
